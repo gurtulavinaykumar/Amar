@@ -1,1 +1,2 @@
 Feature file is edited
+Feature file is edited in cental repository
